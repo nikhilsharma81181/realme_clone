@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "221668413717",
+    "project_id": "realme-clone",
+    "storage_bucket": "realme-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221668413717:android:c130f4368a3feba170591c",
+        "android_client_info": {
+          "package_name": "com.example.realme_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221668413717-qak22bi44d6msti388or4afju8m73kff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realme_clone",
+            "certificate_hash": "9b582d8737f16f367e8e3b6e09d69d43edd4f8ed"
+          }
+        },
+        {
+          "client_id": "221668413717-klhsh15u0q23hvd1i8m3k1v3g0mn4kkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhExt8oFhc8Rw_e28vnlC0faRDHICujo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221668413717-klhsh15u0q23hvd1i8m3k1v3g0mn4kkk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "221668413717-bjt70buu25j0uumknikf15bjlvebqu1m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realmeClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
